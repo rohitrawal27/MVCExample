@@ -86,7 +86,6 @@ C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.xml
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Security.xml
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Security.Google.xml
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
@@ -113,3 +112,4 @@ C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Practice.Entities.dll.confi
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Practice.Data.dll
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Practice.Data.pdb
 C:\Practice\MVCExample\Practice.Web\Practice.Web\bin\Practice.Data.dll.config
+C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.Migrations.AddedCustomerOrder.resources
