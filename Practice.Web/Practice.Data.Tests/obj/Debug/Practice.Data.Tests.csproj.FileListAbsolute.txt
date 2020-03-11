@@ -1,0 +1,17 @@
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Practice.Data.Tests.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Practice.Data.Tests.pdb
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Practice.Data.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Practice.Data.pdb
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Practice.Data.dll.config
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\obj\Debug\Practice.Data.Tests.csprojAssemblyReference.cache
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\obj\Debug\Practice.Data.Tests.csproj.CoreCompileInputs.cache
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\obj\Debug\Practice.Data.Tests.csproj.CopyComplete
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\obj\Debug\Practice.Data.Tests.dll
+C:\Practice\MVCExample\Practice.Web\Practice.Data.Tests\obj\Debug\Practice.Data.Tests.pdb
