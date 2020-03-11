@@ -103,3 +103,5 @@ C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.csproj.C
 C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.csproj.CopyComplete
 C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.dll
 C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.pdb
+C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.Migrations.InitialModel.resources
+C:\Practice\MVCExample\Practice.Web\Practice.Web\obj\Debug\Practice.Web.csproj.GenerateResource.cache
