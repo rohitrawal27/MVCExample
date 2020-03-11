@@ -1,4 +1,3 @@
-C:\Practice\MVCExample\Practice.Entities\obj\Debug\Practice.Entities.csproj.CoreCompileInputs.cache
 C:\Practice\MVCExample\Practice.Entities\bin\Practice.Entities.dll.config
 C:\Practice\MVCExample\Practice.Entities\bin\Practice.Entities.dll
 C:\Practice\MVCExample\Practice.Entities\bin\Practice.Entities.pdb
@@ -84,6 +83,8 @@ C:\Practice\MVCExample\Practice.Entities\bin\System.Web.WebPages.xml
 C:\Practice\MVCExample\Practice.Entities\bin\System.Web.WebPages.Deployment.xml
 C:\Practice\MVCExample\Practice.Entities\bin\System.Web.WebPages.Razor.xml
 C:\Practice\MVCExample\Practice.Entities\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Practice\MVCExample\Practice.Entities\obj\Debug\Practice.Entities.csproj.CoreCompileInputs.cache
 C:\Practice\MVCExample\Practice.Entities\obj\Debug\Practice.Entities.csproj.CopyComplete
 C:\Practice\MVCExample\Practice.Entities\obj\Debug\Practice.Entities.dll
 C:\Practice\MVCExample\Practice.Entities\obj\Debug\Practice.Entities.pdb
+C:\Practice\MVCExample\Practice.Entities\obj\Debug\Practice.Entities.csprojAssemblyReference.cache

@@ -49,7 +49,6 @@ C:\Practice\MVCExample\Practice.Common\bin\roslyn\VBCSCompiler.exe
 C:\Practice\MVCExample\Practice.Common\bin\roslyn\VBCSCompiler.exe.config
 C:\Practice\MVCExample\Practice.Common\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Practice\MVCExample\Practice.Common\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Practice\MVCExample\Practice.Common\obj\Debug\Practice.Common.csprojAssemblyReference.cache
 C:\Practice\MVCExample\Practice.Common\obj\Debug\Practice.Common.csproj.CoreCompileInputs.cache
 C:\Practice\MVCExample\Practice.Common\obj\Debug\Practice.Common.csproj.CopyComplete
 C:\Practice\MVCExample\Practice.Common\obj\Debug\Practice.Common.dll
